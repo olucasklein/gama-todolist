@@ -2,7 +2,7 @@
 <p align="center">Projeto desenvolvido durante o Hiring coders da VTEX com Gama Academy</p>
 <img src="./todolist.png">
 
-📖 - Projeto desenvolvido durante o Hiring coders da VTEX com Gama Academy, com o intúito de desenvolver uma To Do List básica em Java Script
+📖 - Projeto desenvolvido durante o Hiring coders da VTEX com Gama Academy, com o intúito de desenvolver uma To Do List básica em JavaScript
 
 <h2>🚀 Tecnologias utilizadas: </h2>
 
