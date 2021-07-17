@@ -13,7 +13,7 @@
 <h2>Para iniciar o projeto use: </h2>
 git clone https://github.com/olucasklein/gama-todolist.git
 
-<h2>Para iniciar a Landing Page:</h2>
+<h2>Para iniciar:</h2>
 Recomendo a utilização da extensão Live Server no VSCode
 
 <h2>📝 Licença</h2>
